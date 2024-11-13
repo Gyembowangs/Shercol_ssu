@@ -154,7 +154,7 @@ body {
     }
 
     .text-content, .info {
-        min-width: 100%;
+        min-width: 80%;
     }
 
     .nested-grid-container {
@@ -168,7 +168,7 @@ body {
     }
 
     .text-content h4, .info h4, .unit-leader h2 {
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
 
     .text-content p, .info p {
