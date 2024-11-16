@@ -41,6 +41,9 @@ h1 {
     margin-top: 0;
     font-size: 20px;
 }
+.achievement-image{
+    height: 300px;
+}
 
 /* Button styles */
 .toggle-details {
